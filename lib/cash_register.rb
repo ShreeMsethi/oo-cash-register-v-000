@@ -111,7 +111,10 @@ end
 #returns the total to 0.0 if all items have been removed
 
 def void_last_transaction
+<<<<<<< HEAD
   @total -= @last_transaction_amount
+=======
+>>>>>>> af5aac0fcf1f12e87ff7f0e731d9ebdd8de4375b
 end
 
 end
